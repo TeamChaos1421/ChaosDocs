@@ -1,4 +1,4 @@
-# 2017 Development Environment Installation (Ubuntu)
+# 2017 FRCSim Installation (Ubuntu 16.04)
 
 #### Step 1: Run this Script
 
